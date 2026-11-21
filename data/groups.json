@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/advertising Creative Campaigns",
+    "platform": "Reddit",
+    "category": "Advertising Strategy",
+    "memberCount": "210,000+ members",
+    "description": "Agency creative directors and brand strategists discussing big ideas, concepting, positioning, and award-winning campaigns.",
+    "joinUrl": "https://www.reddit.com/r/advertising/",
+    "tags": [
+      "advertising",
+      "agency",
+      "creative",
+      "campaigns"
+    ],
+    "id": "copywriting-high-ticket-hub-reddit-4",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "title": "r/writing Craft & Rhetoric",
     "platform": "Reddit",
     "category": "Writing Craft",
@@ -15,7 +34,7 @@
     "id": "copywriting-high-ticket-hub-reddit-3",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -929,24 +948,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/advertising Creative Campaigns",
-    "platform": "Reddit",
-    "category": "Advertising Strategy",
-    "memberCount": "210,000+ members",
-    "description": "Agency creative directors and brand strategists discussing big ideas, concepting, positioning, and award-winning campaigns.",
-    "joinUrl": "https://www.reddit.com/r/advertising/",
-    "tags": [
-      "advertising",
-      "agency",
-      "creative",
-      "campaigns"
-    ],
-    "id": "copywriting-high-ticket-hub-reddit-4",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/marketing Persuasion Science",
