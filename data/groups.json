@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/marketing Persuasion Science",
+    "platform": "Reddit",
+    "category": "Consumer Psychology",
+    "memberCount": "850,000+ members",
+    "description": "Behavioral economics, Cialdini's principles of persuasion, market desire channeling, and cognitive biases.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "persuasion",
+      "psychology",
+      "bias"
+    ],
+    "id": "copywriting-high-ticket-hub-reddit-5",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "title": "r/advertising Creative Campaigns",
     "platform": "Reddit",
     "category": "Advertising Strategy",
@@ -15,7 +34,7 @@
     "id": "copywriting-high-ticket-hub-reddit-4",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -948,24 +967,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/marketing Persuasion Science",
-    "platform": "Reddit",
-    "category": "Consumer Psychology",
-    "memberCount": "850,000+ members",
-    "description": "Behavioral economics, Cialdini's principles of persuasion, market desire channeling, and cognitive biases.",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
-    "tags": [
-      "marketing",
-      "persuasion",
-      "psychology",
-      "bias"
-    ],
-    "id": "copywriting-high-ticket-hub-reddit-5",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/emailmarketing Direct Inbound Sequences",
