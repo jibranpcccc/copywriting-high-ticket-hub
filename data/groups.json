@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/freelance Independent Consultancy",
+    "platform": "Reddit",
+    "category": "Freelancing",
+    "memberCount": "360,000+ members",
+    "description": "Client contracts, payment milestones, scope creep prevention, and transitioning from hourly billing to value pricing.",
+    "joinUrl": "https://www.reddit.com/r/freelance/",
+    "tags": [
+      "freelance",
+      "contracts",
+      "valuepricing",
+      "consulting"
+    ],
+    "id": "copywriting-high-ticket-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/sales High-Ticket Closing",
     "platform": "Reddit",
     "category": "Sales & Closing",
@@ -15,7 +34,7 @@
     "id": "copywriting-high-ticket-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -1024,24 +1043,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/freelance Independent Consultancy",
-    "platform": "Reddit",
-    "category": "Freelancing",
-    "memberCount": "360,000+ members",
-    "description": "Client contracts, payment milestones, scope creep prevention, and transitioning from hourly billing to value pricing.",
-    "joinUrl": "https://www.reddit.com/r/freelance/",
-    "tags": [
-      "freelance",
-      "contracts",
-      "valuepricing",
-      "consulting"
-    ],
-    "id": "copywriting-high-ticket-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/digitalmarketing Direct Response Funnels",
